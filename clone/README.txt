@@ -1,0 +1,1 @@
+This directory contains the original coinhive.min.js downloaded from https://coinhive.com/lib/coinhive.min.js on 10/1/2017 in 20PM
